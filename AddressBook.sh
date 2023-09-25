@@ -31,8 +31,6 @@ show_menu(){
     done
 }
 
-echo "I am adding my first change for a git test"
-
 echo "Welcome to the Address Book"
 
 

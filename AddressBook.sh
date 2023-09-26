@@ -31,6 +31,8 @@ show_menu(){
     done
 }
 
+echo "This is a merge test"
+
 echo "Welcome to the Address Book"
 
 
